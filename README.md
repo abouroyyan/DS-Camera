@@ -1,3 +1,5 @@
+![DS Editor Preview](ds-camera-preview.png)
+
 DS Camera — A Camera App for Direct Sensor Modified Phones
 
 When the original smartphone lens is removed and replaced with an external lens (such as a TV lens, mirrorless lens, or DSLR lens), the captured image often shows distorted or uneven colors. This happens because the phone’s built-in Lens Shading Correction (LSC) is still calibrated for the original factory lens, causing a mismatch with the new optical setup.
