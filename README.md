@@ -1,4 +1,4 @@
-![DS Editor Preview](ds-camera-preview.png)
+![DS Editor Preview](dscamera-preview.png)
 
 DS Camera — A Camera App for Direct Sensor Modified Phones
 
